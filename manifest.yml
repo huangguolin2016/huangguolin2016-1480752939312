@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: huangguolin2016
+  host: huangguolin2016
+  disk_quota: 1024M
